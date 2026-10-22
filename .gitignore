@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+evidence*/
+work/
+*.mp4
+*.mov
+*.wav
+*.zip

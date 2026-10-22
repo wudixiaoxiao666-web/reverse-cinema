@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reverse Cinema · 视频逆向"
+  short_description: "从视频证据还原故事分镜、提炼导演规律，输出可二创的时序提示词"
+  default_prompt: "使用 $reverse-cinema 分析我提供的参考视频，区分事实与推测，提炼 Style DNA 并生成二创分镜和视频提示词。"
